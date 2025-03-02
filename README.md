@@ -4,6 +4,7 @@ Installation
 
 Clone the repository or copy the script to your Linux machine:
 git clone https://github.com/Prateek-Dwivedi28/Info_gathering_tool.git
+
 cd <repository-directory>
 
 Usage
